@@ -1,8 +1,9 @@
 # Rpi-mDNS-DeviceManager for emergencies.
 
-This project explores the exciting field of the cloud-edge continuum and leverages Raspberry Pi devices to achieve its objectives. 
-It was initiated as part of my undergraduate thesis for the [Hellenic Open University (EAP)](https://www.eap.gr/en/) 
-during the 2022-2023 academic year, under the guidance of Mr. Dimitriou Nikolaos(MsC).
+This project explores the exciting field of the cloud-edge continuum and leverage Raspberry Pi devices to achieve its objectives. 
+It was initiated as part of my undergraduate thesis for the Hellenic Open University [HOU](https://www.eap.gr/en/) during the 2022-2023 academic year, 
+under the guidance of [Dr. Nikos Dimitriou](https://www.iit.demokritos.gr/people/nikolaos-dimitriou/), 
+Academic Consultant at HOU and Tenured Researcher at the NCSR - [National Center for Scientific Research "Demokritos"](https://www.demokritos.gr/). 
 
 ## About
 
@@ -89,7 +90,6 @@ and 192.168.34.35-192.168.34.254(We do not use the ip 192.168.34.34 to avoid con
 
 ## Project Continuation 
 
-Following the successful defense of my thesis, which received a top grade of "Arista" (10), the project's 
-development continues as part of my part-time internship in collaboration with 
-Mr. Dimitriou(MsC) at the [National Center for Scientific Research "Demokritos"](https://www.demokritos.gr/). 
-More specifically, the project is being pursued within the [Institute of Telecommunications](https://www.iit.demokritos.gr/about-the-institute/).
+Following the successful defense of my thesis, which received a top grade "Excellent", 
+the project's development continues as part of my part-time internship in collaboration with 
+Dr. Nikos Dimitriou in the [Telecommunication Networks Laboratory of the Institute of Informatics & Telecommunications at NCSR “Demokritos”](https://www.iit.demokritos.gr/about-the-institute/).
