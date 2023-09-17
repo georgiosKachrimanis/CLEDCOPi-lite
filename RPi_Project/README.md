@@ -5,6 +5,21 @@ It was initiated as part of my undergraduate thesis for the Hellenic Open Univer
 under the guidance of [Dr. Nikos Dimitriou](https://www.iit.demokritos.gr/people/nikolaos-dimitriou/), 
 Academic Consultant at HOU and Tenured Researcher at the NCSR - [National Center for Scientific Research "Demokritos"](https://www.demokritos.gr/). 
 
+## Overview
+This repository houses the research and development of a communication framework designed specifically for the Internet of Things (IoT). The framework focuses on security systems and emergency response applications, intertwining hardware (Raspberry Pi) and software components to create a robust system.
+
+**Features:**
+
+1. **Raspberry Pi Network:** An interconnected mesh of Raspberry Pi devices with one acting as the Coordinator responsible for both cloud communication and supervising Edge Computing functions.
+
+2. **Self-Configuration:** Facilitates automatic Coordinator selection, leveraging a custom Rest API to bypass challenges from the absence of a centralized database.
+
+3. **Edge Computing:** The system is adept at adjusting communication quality based on available bandwidth.
+
+4. **User-Centric Web Interface:** Provides users with real-time updates on the experiment's progress, ensuring ease-of-use.
+
+5. **Modular Design:** Allows for easy integration of new nodes without significant alterations to the core codebase.
+
 ## About
 
 This project provides an intuitive device management system optimized for Raspberry Pi clusters. 
@@ -68,8 +83,7 @@ You can follow the rest of the guide.
 
 ## Running the application Software
 
-WIP (Code needs to be cleaned)
-
+If you are want to get involved or to learn more about the software please let me know so I can share it with you.
 
 # Naming Conventions
 - Each device within our Raspberry Pi network is uniquely named following the format pixxx, where xxx is a number ranging from 2 to 254. 
