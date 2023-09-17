@@ -5,6 +5,7 @@ It was initiated as part of my undergraduate thesis for the Hellenic Open Univer
 under the guidance of [Dr. Nikos Dimitriou](https://www.iit.demokritos.gr/people/nikolaos-dimitriou/), 
 Academic Consultant at HOU and Tenured Researcher at the NCSR - [National Center for Scientific Research "Demokritos"](https://www.demokritos.gr/). 
 
+
 ## Overview
 
 This repository houses the research and development of a communication framework designed specifically for the Internet of Things (IoT). The framework focuses on security systems and emergency response applications, intertwining hardware (Raspberry Pi) and software components to create a robust system.
@@ -20,6 +21,7 @@ This repository houses the research and development of a communication framework
 4. **User-Centric Web Interface:** Provides users with real-time updates on the experiment's progress, ensuring ease-of-use.
 
 5. **Modular Design:** Allows for easy integration of new nodes without significant alterations to the core codebase.
+
 
 ## About
 
